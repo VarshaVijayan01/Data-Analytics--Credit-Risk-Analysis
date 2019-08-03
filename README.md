@@ -9,12 +9,11 @@ While exploring the data 33655 missing values were found.
 ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Rplot.png)
 ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Missing%202.png)
 
+Each variable was carefully analyzed with the help of histogram to understand the distribution of each variable.
 
 ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Overall%20%2001%20data%20exploration%20and%20cleaning.png)
 
 ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Overall%20%2002%20data%20exploration%20and%20cleaning.png)
-
-Each variable was carefully analyzed with the help of histogram to understand the distribution of each variable.
 
 Variable RevolvingUtilizationOfUnsecuredLines had no missing values but it had 3321 outliersFrom the analysis it can be seen that the distribution is not a normal distribution so the abnormal values will be imputed with median. After imputing the distribution was better
 Similarly in variable NumberOfTime30.59DaysPastDueNotWorse, it  had no missing values but it had 269 outliers and it was replaced with 0
@@ -25,10 +24,11 @@ Again no missing value in NumberRealEstateLoansOrLines but outlier is seen and r
 NumberOfTime60.89DaysPastDueNotWorse imputed absurd values with 0.
 NumberOfDependents missing values were imputed with 0.
 
-  On testing teh balance proportion of the resultant value we can see an imbalance here that is 93% and 7% so we'll do downsampling for class'0' in variable SeriousDlqin2yrs to get a balance between the values
+  On testing the balance proportion of the resultant value we can see an imbalance here that is 93% and 7% so we'll do downsampling for class'0' in variable SeriousDlqin2yrs to get a balance between the values
+  
   ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Balance%20Testing.png)
   
-we are making three set of samples so that all the observation have fair chances of random sampling
+Three set of samples were used so that all the observation have fair chance of random sampling
     
   Two sample One-tailed Hypothesis Testing
 Null Hypothesis : The average age of the defaulters is less than the average of the non defaulters. 
