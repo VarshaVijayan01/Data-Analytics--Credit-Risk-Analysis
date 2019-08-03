@@ -1,3 +1,5 @@
+## Data-Analytics - Credit Risk Analysis
+
 Credit can be considered as the one of the key elements on which a market and society functions.The banks have the right to build and break the decisions based on investments, and they also make crucial decisions  based on the terms on which the bank provides people with credit. The decision based on whether a loan should be granted or not, is determined by the banks using the Credit Scoring Algorithm and this method helps in making a guess at the probability of default. This dataset is used towards improving the state of credit scoring,  by making a prediction that in the next two years there is a probability that certain bankers will face a financial distress.
 
 This Dataset is from Kaggle- “ Give Me Some Credit”
