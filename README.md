@@ -37,5 +37,36 @@ To check hypothesis, t test has been performed where p value is less than 0.05. 
 
 Null Hypothesis : The average monthly income of the defaulters is less than the average of the non defaulters. 
 To check hypothesis, t test has been done where p value is less than 0.05. Thus, at 95% confidence interval, there is no enough evidence to reject null hypothesis
+
   ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Hypothesis%202.png)
+  
+  
+  Modeling
+  Naive Bayes
+    ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Naive%20bayes%201.png)
+  
+      ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Naive%20bayes%202.png.jpg)
+
+  
+  Decision Tree
+    ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/DT.png)
+  
+      ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/DT%201.pnghttps://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Naive%20bayes%202.png.jpg)
+      
+Random Forest
+          ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/RF.png)
+
+          ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/RF2.png)
+          
+KNN
+          ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/knn1.png)
+
+          ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/knn2.png)
+
+          ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/knn3.png)
+          
+          
+Overall Evaluation of all models
+          ![alt text](https://github.com/VarshaVijayan01/Data-Analytics--Credit-Risk-Analysis/blob/master/Images/Evaluation.png)
+
 
